@@ -3,4 +3,6 @@ Feature_two
 Feature_three
 Feature_four
 Feature_five
+Feature_Six
+Feature_Seven
 
